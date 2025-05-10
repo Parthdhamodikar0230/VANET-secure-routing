@@ -1,0 +1,43 @@
+Title: VANET Secure Routing Project – Setup & Usage Guide
+
+Contents:
+
+NS-3 simulation: scratch/vanet-log.cc
+
+Python scripts: code/vanet_simulation.py
+
+Input: messages.csv (generated from NS-3)
+
+Output graphs: plots/*.png
+
+How to Build & Run:
+
+Build and run NS-3 simulation:
+
+cd ~/ns-3-dev
+./ns3 build
+./ns3 run scratch/vanet-log
+
+This creates messages.csv containing message timestamps and sizes.
+
+Run Python simulation:
+
+cd ~/vanet-secure-routing
+source venv/bin/activate
+python code/vanet_simulation.py | tee docs/sample_output.txt
+
+Dependencies:
+
+Python 3
+
+matplotlib
+
+pandas
+
+(Install with: pip install matplotlib pandas)
+
+Output:
+
+Graphs saved to plots/ folder
+
+Console output saved to docs/sample_output.txt

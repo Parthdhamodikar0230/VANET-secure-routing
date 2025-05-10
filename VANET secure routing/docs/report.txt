@@ -1,0 +1,35 @@
+Title: Secure VANET Routing Protocol – NS-3 + Python Simulation Report
+
+Objective:
+To simulate a secure VANET routing scenario using NS-3 for network simulation and Python for message integrity verification using cryptographic hashing.
+
+Tools Used:
+
+NS-3 (C++) for simulating vehicle nodes and message exchange
+
+Python 3 (matplotlib, pandas, hashlib) for post-analysis and tamper detection
+
+Linux (Kali VM)
+
+Methodology:
+
+Simulated 3 vehicle nodes using WiFi ad-hoc mode in NS-3.
+
+Each node broadcasted UDP packets.
+
+Packet logs (timestamp, size, etc.) were written to messages.csv.
+
+Python script simulated hashing using SHA256, SHA3_256, MD5, etc.
+
+Tampering was introduced randomly to test integrity detection.
+
+Graphs plotted hash performance and vehicle behavior.
+
+Results:
+
+All tampered messages were successfully detected via hash mismatch.
+
+Graphs (hash_times.png, vehicle_speeds.png, vehicle_positions.png) demonstrate secure transmission and analysis.
+
+Conclusion:
+This hybrid simulation demonstrates how cryptographic hashes can protect VANET messages against tampering. NS-3 provided realistic network simulation, while Python enabled security analysis.

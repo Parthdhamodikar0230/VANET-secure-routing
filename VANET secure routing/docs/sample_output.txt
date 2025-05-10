@@ -1,0 +1,1812 @@
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (0, 0)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 100, 'position': (0, 0)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (30, 50)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 100, 'position': (30, 50)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (6.199151431123481, 6.473266773461532)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (14.960077517505766, 24.733961586276173)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (12.167406953740555, 13.563226301269543)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (19.473330023246092, 29.988563352151797)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (18.866021055242605, 20.689634199036956)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (24.655796369065538, 35.19606773802501)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (25.66193618154298, 26.76530309525065)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (29.69051908886106, 40.449042867522486)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (31.71981802318819, 33.76972040206711)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (34.38552072302026, 45.7897190916889)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (38.83039670898476, 40.42449624877453)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (39.34153725674081, 50.615968737904986)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (44.72519088580759, 47.13715485201676)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (44.77397422981708, 55.63837439697085)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (50.88668808111625, 53.080292517870745)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (49.4992096634527, 60.29633205955314)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (57.862836772682854, 59.607463795334894)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (54.90348446249004, 64.93308971371576)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (64.68869660264963, 65.88270321390554)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (59.86816933991866, 69.86871365795625)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (71.33188075023178, 71.9024097122657)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (65.15381465158151, 75.12394018190544)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (77.99117494363581, 78.08230144242654)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (70.15819236852967, 79.93683512806763)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (84.39494621362117, 84.42247161914005)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (74.84980565145834, 84.76588856034543)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (91.16169370251546, 91.37529421040489)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (80.32419779644181, 89.89590872977529)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (97.06320283147204, 97.68309863801545)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (85.00323346665813, 94.89427667697322)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (103.2760363199948, 104.37667379895508)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (89.85117663870135, 99.63200218286991)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (109.8752582766879, 110.53901356646497)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (94.8979954741864, 104.96818242797782)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (116.631529313527, 117.26297312736457)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (99.62341107110177, 109.98001404764628)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (123.56025053530121, 123.93545340499772)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (105.096342522932, 115.21736495046322)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (130.2571331046555, 130.2438059602377)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (110.23433825246337, 120.27609864306565)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (136.78364143780905, 136.2713026292787)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (115.11076195441773, 125.43814779436762)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (143.91496377777148, 142.43135609785259)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (120.49954277535498, 129.93957286707453)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (150.34718457444822, 148.94516200514434)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (125.53257174830509, 134.54899372756944)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (156.7911981439792, 155.86846308276904)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (130.5952955388377, 139.5701425148298)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (163.07506378402257, 161.73196367157712)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (135.66914311548118, 144.38760005970755)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (169.0177785814907, 168.0806686467852)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (140.6050051126303, 149.81224128322606)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (176.12882007354315, 174.8791891657977)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (146.0051851197102, 154.59974950688365)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (182.86421779399626, 181.85900477815585)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (151.49202123685978, 159.56555524508371)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (189.0836343313581, 187.80916700818642)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (156.10339044692282, 164.4442796781053)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (196.1128467659795, 194.75998787122444)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (160.85238021116882, 169.84944299305602)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (202.72531399922846, 200.83186947759148)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (165.646292403406, 174.8224103291322)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (209.54658602876555, 207.4776777261596)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (170.60356668673762, 179.40932758474906)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (215.81081562616518, 213.62866161435775)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (175.1643895561332, 184.0663934370109)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (222.74387336618864, 219.63048458612872)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (180.5701787771075, 189.27780683894892)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (228.94537621215636, 226.3364269793405)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (185.55586347365616, 194.49230082389147)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (235.94367206208307, 232.33535372322757)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (190.45309628764588, 199.17122647885176)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (242.75795340967795, 238.7705710028519)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (195.6900370488862, 204.32541861605884)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (248.960370418786, 245.65795922907884)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (200.3827377335198, 209.76043632663496)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (255.83295772610174, 251.77121065198128)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (205.06324674841042, 214.5415401288252)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (262.5160944278314, 258.3272443893609)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (209.59721120568994, 219.6964785433899)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (268.68233804907965, 264.1881824947158)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (214.7998850709635, 224.80572450172636)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (274.96630760906294, 270.97273385956976)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (219.82395133163504, 229.77164486164986)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (281.52106238810137, 277.7652879227052)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (224.49730018386984, 235.13778191665452)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (288.17381614965234, 284.30832978079866)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (229.24577948685098, 239.7221080267436)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (295.0741017672528, 290.43620336509133)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (234.12634663512418, 244.8730704462716)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (301.6107187546023, 296.9818965533453)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (238.9624372365286, 249.95059399127283)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (308.11171510744964, 303.278615251092)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (243.9767819321565, 255.18140842419527)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (314.7285448136043, 309.88753206076433)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (249.0801464160612, 259.72432038961927)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (320.7540251125539, 316.23545632170755)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (253.80832425557952, 264.697777268377)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (327.75901117384774, 322.6509896953215)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (258.61234638960053, 270.06962440088944)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (334.30307496533396, 328.9809253425403)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (264.0615278802731, 274.84412075953463)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (341.21955217464284, 335.19934306864906)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (269.47788612034975, 279.9639678960993)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (347.57805908943715, 342.2530888123293)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (274.49240568852696, 284.8438196092786)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (354.12034180620105, 348.3464785542315)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (279.7791399404731, 290.04182610387363)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (360.8260312239246, 354.84251689067173)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (284.6710905494927, 295.4697769686272)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (366.7634685511952, 361.68459590983775)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (289.76923901777974, 300.5798788384128)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (373.6129813724121, 367.5375455412698)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (294.8925418554031, 305.54532117434997)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (380.20916994826007, 373.7688203542886)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (299.48000676806663, 310.2883553308923)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (386.9991126716812, 380.62519435850817)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (304.5265578272591, 315.48044405954124)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (393.4224418209412, 386.8016048451084)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (309.06640712243666, 320.35886667917873)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (400.3684406476914, 392.94815020755095)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (313.83654018618574, 325.16708168998156)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (407.5079003995475, 399.243486918125)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (318.7194003879895, 330.1177425299095)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (413.57443219312194, 406.0672809461097)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (323.4023063858674, 335.39443545198844)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (420.1312908061002, 412.2757103488246)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (328.66417368033154, 340.62915779970234)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (426.01456734868714, 419.220556076569)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (333.6204749728681, 345.5839935521736)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (432.538479054833, 425.0766932735574)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (338.16959176527524, 350.70672173892495)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (438.8375858382916, 432.10791412317735)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (343.3025524007697, 355.78139824355833)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (445.5655357740294, 439.24571051588117)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (348.7404970147308, 361.12974592018423)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (451.6510123034783, 446.2147466533023)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (354.22376658230684, 365.64518336283834)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (457.66106027023807, 452.88475451728397)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (359.3430423619391, 370.53648702542785)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (464.73986530157174, 459.0740398894776)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (364.7895389756287, 375.1459944424925)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (471.3709378795083, 465.96569901457264)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (369.7721979574611, 380.64416697937287)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (477.4658227824705, 472.3152740926361)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (374.89142052564296, 385.64987554667715)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (483.63352622111984, 478.84548182970224)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (379.7003838985919, 390.4859162896556)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (490.44780692228943, 485.57643552824726)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (385.12335938484887, 395.2458709720083)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (496.57528045401244, 492.3898648472218)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (389.84524533081606, 400.01363845263984)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (502.58407989758575, 498.91037277011554)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (395.2894836931865, 405.1343516774355)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (508.9934447780342, 505.70578249681614)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (400.05596396883703, 410.2268744775218)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (515.1151653104141, 512.5999300057122)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (405.1382637176534, 415.1635120366304)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (521.1758289212607, 518.9561222448457)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (410.1319926910875, 420.1804457041542)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (528.243446594413, 525.9611965077426)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (415.5478725404562, 424.8657807794337)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (535.0273560718549, 532.3343803822584)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (420.8687918328193, 429.39074924552835)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (542.0065625325858, 539.4702719754296)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (425.4585354128497, 434.2038524664867)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (548.6016413732111, 546.1084609699865)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (430.2531039679967, 439.4382593543849)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (554.9302631714665, 553.0831134030693)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (435.1389886961705, 444.1919969802719)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (561.4973683324733, 559.9199367057386)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (440.09952227409, 448.98288206064694)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (568.6334291643988, 566.6335171183086)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (445.49468669066636, 453.6791823970218)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (575.6579345925264, 572.6575206808568)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (450.23912824662006, 458.913473930617)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (581.6044568405406, 578.6498249960573)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (455.65338263421614, 463.8313377364496)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (587.6288723036721, 585.4423264372292)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (460.71219625606284, 468.941592265304)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (593.7864185332786, 592.5174536735366)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (465.53143145098005, 474.44131551535634)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (600.2223497265405, 599.621842173001)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (470.3952448095775, 479.7955511246745)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (606.9652982154545, 605.7181485456103)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (475.02152960222725, 484.8442298274901)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (614.0371519670459, 611.5944395421782)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (479.5446793950697, 489.43219739116574)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (620.5295588749682, 618.2394244842075)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (484.55930802931124, 494.36867690211136)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (627.4196753424928, 624.5077303647074)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (489.1364729683572, 499.64966983699577)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (634.4891783288215, 630.6339434087901)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 80, 'position': (494.2712433534031, 504.39426398806444)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (640.5612989674694, 636.6504173687044)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (499.29128773859145, 509.8110958207139)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 65, 'position': (646.6346785252238, 642.8375943453974)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (504.51196228153464, 515.1182508516487)}
+❌ Message integrity is NOT valid!
+
+Vehicle V2 received message from V1: {'vehicle_id': 'V1', 'speed': 95, 'position': (653.7788572539386, 649.5747739123897)}
+❌ Message integrity is NOT valid!
+
+Vehicle V1 received message from V2: {'vehicle_id': 'V2', 'speed': 50, 'position': (509.23546046608766, 520.3420656395097)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (33.7147573635199, 53.29793769730507)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (12.147654352179334, 51.9866956653213)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (36.933580109847306, 56.484284157840115)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (14.051856517051027, 53.929915577648956)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (40.60582540775642, 59.87474902542398)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (15.867328035690889, 55.79279463521489)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (44.18972326182746, 63.123847280618854)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (17.934539655719234, 57.64393233889561)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (47.74047146351663, 66.35761048413768)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (20.095362368243478, 59.63130004291448)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (51.0166181544391, 69.6880595555819)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (22.145807701482376, 61.554426285168056)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (54.41484511714881, 73.347070738083)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (24.181830029439325, 63.700615270264954)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (58.20971072586924, 76.70588852930312)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (26.375182324889217, 65.74274593791128)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (61.63685024550205, 80.35161525672319)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (28.256786094680386, 67.73495293034013)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (64.89768363070223, 83.62314457119085)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (30.35220821722326, 69.62517197820726)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (68.57887111493983, 87.27853089919563)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (32.21823811607877, 71.59075040167961)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (72.38741048961077, 90.53415651465318)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (34.368067886961384, 73.77762399705163)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (75.89443416166012, 94.16442691077964)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (36.33326816339065, 75.60312961105073)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (79.44936960335359, 97.71546298802053)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (38.3907924849599, 77.52306512570122)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (83.01493352413476, 101.16268577531926)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (40.303848751784884, 79.38374356836663)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (86.46811963024541, 104.49029699950081)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (42.40208369535894, 81.33590367718026)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (90.12826915078443, 107.86430572275437)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (44.3914026914652, 83.46389792980366)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (93.32555579588784, 111.6265895039163)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (46.397241044055896, 85.44457561031348)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (96.81941760357546, 114.9350152565643)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (48.43883542564425, 87.63323834326125)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (100.1060796044998, 118.43086563135955)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (50.62608488630772, 89.6453325329466)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (103.39945081992528, 121.63383189220927)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (52.7556941990455, 91.51534464947838)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (106.85739334687743, 124.96209931256016)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (54.732011251408444, 93.60470317377576)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (110.31775275899713, 128.7792859752188)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (56.64538786387949, 95.79334649636381)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (113.47311204310522, 132.15558852391084)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (58.657499189475374, 97.6928397466531)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (117.00789663577409, 135.43638801794646)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (60.6428269471363, 99.76383422882928)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (120.61417581044734, 138.8397984529743)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (62.64524914111419, 101.857892094215)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (123.94300593418846, 142.53164071992984)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (64.53344989469915, 103.91233856937733)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (127.49890591288984, 146.1455255691639)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (66.37724805741843, 105.93390136366551)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (131.17779837030074, 149.7018275314948)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (68.39923702095838, 108.03535518585555)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (134.48813079063444, 153.18468351883755)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (70.30632972794086, 109.98021589848987)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (138.2911817578254, 156.64704837834114)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (72.17811157067598, 111.78587081618485)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (141.77258182368038, 159.91904790544908)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (74.30542535445423, 113.75006119674299)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (145.48733464845452, 163.62756869488308)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (76.38014691312864, 115.6245634955984)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (148.83683003345251, 167.18945665537984)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (78.38036918357102, 117.77180512616818)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (152.54903429709805, 170.71677498910498)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (80.35766165949049, 119.74174131825158)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (156.2926523832667, 173.99876886208796)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (82.17002520949582, 121.61462334396529)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (159.68170828775047, 177.29185318025264)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (84.2897503169518, 123.56890723736609)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (163.1727942607625, 181.0961719832709)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (86.1467141502667, 125.39811672372844)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (166.8230071970692, 184.64515425803773)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (88.27694025156244, 127.2417621908622)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (170.3764103515203, 188.43312334707574)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (90.11121859496676, 129.4043509499064)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (173.77307497883112, 192.1778880119393)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (92.17740417008369, 131.3865349397992)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (177.4268640659445, 195.8999593125908)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (94.31998647272115, 133.32980700359553)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (180.75650978809495, 199.45420266313877)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (96.33474381955989, 135.4547520598772)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (184.1154604979441, 203.0951957329895)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (98.46865964509209, 137.60623170208473)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (187.7772412200997, 206.92616572415963)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (100.53239307799637, 139.68837127936527)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (191.09820487955943, 210.10037477675266)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (102.71135984817965, 141.67724422915208)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (194.48758418037679, 213.3105425967663)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (104.76834000689968, 143.54816258111606)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (198.2068589882561, 216.57488206574203)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (106.68768358871185, 145.43709498673556)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (201.40785294545393, 219.871448219727)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (108.67059154999126, 147.59436049654957)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (204.80999205284928, 223.20219043194334)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (110.65555459833274, 149.59266901549333)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (208.00364651558738, 226.58967472496693)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (112.72235908023436, 151.42996224241742)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (211.2594994386842, 229.78688709527424)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (114.63545928751947, 153.35501841293078)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (214.77077400531408, 233.04416089509493)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (116.64171601237443, 155.26550369617388)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (218.41242444025363, 236.4134536446981)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (118.52169562221079, 157.14528014019803)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (221.59734402209034, 239.77996686615575)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (120.59021122313227, 159.08523426757193)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (225.28521747530849, 243.58684623183962)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (122.67857748286468, 161.04407092497112)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (228.90691128713829, 247.2103124693095)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (124.50829426681942, 163.14755299368844)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (232.1708468005972, 250.49842670637108)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (126.43824823315063, 165.1792089795698)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (235.5793074027773, 254.25408721135886)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (128.3985033200439, 167.20312771524073)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (239.14186620442678, 257.4132896415523)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (130.46053209027409, 169.02759699388324)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (242.71595542940858, 260.61263036050633)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (132.62843535296662, 171.03449806741912)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (246.13893815045876, 263.8717276683577)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (134.70136337210064, 173.16407081631073)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (249.97525456327153, 267.2377821931927)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (136.55853717190064, 175.34077857899533)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (253.598652024682, 270.45723765732413)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (138.49156773704217, 177.3391921444646)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (257.39492142773753, 273.8644330555084)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (140.41586468328447, 179.51390218562918)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (261.14480750441544, 277.39145329080844)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (142.22641455769812, 181.63735140581392)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (264.7462959163151, 280.7644293155457)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (144.28110027411398, 183.57967101969155)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (267.99722459089173, 284.1159233651164)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (146.39175723465246, 185.72320493346857)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (271.26872006336146, 287.4322113551852)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (148.53072477218703, 187.63231095836633)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (274.95838738732215, 290.81386805312525)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (150.70780762160754, 189.5845590294983)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (278.2232590043294, 294.2426928153303)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (152.5500005151898, 191.57072268052383)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (281.7898853984155, 297.6620158319857)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (154.6104258323904, 193.37188687838133)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (285.0648349731396, 301.093692421632)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (156.69222773988864, 195.46792818044128)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (288.4878415457979, 304.91571235151434)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (158.67218732248574, 197.5653255653624)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (291.8429464053159, 308.5569353424977)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (160.4958201672287, 199.7103986628548)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (295.45213159225057, 312.2154832245914)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (162.32884806750926, 201.5734797019884)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (298.6143776678282, 315.94523788827917)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (164.4543951982638, 203.541141823397)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (301.81458319676767, 319.2795679364179)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (166.46161117479434, 205.38817044717345)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (305.23912954305735, 322.4700162179919)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (168.6574079306978, 207.191485570304)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (308.9422436140087, 325.93691323948)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (170.55101091084651, 209.07758941810465)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (312.45500069737756, 329.1447009055356)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (172.4501285706835, 210.87873408700486)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (315.6963570360929, 332.50069189141055)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (174.3927800776472, 212.94945775140485)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (319.3442818495855, 336.0203248735982)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (176.50962882000903, 214.85464284329674)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (323.0748716204883, 339.4141289038897)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (178.3169056777913, 216.8742261888223)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (326.6102045726293, 343.12364263536165)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (180.44289530211637, 218.93831735439412)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (330.1166922351658, 346.69862533163774)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (182.6258928347071, 220.80825179009256)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (333.5614537243746, 350.0043489984775)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (184.4945229736064, 222.90109165979408)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (337.3325429969352, 353.63804813537774)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (186.5252387331262, 225.07082383126658)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (340.5445560380107, 357.24923569291224)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (188.68082244595786, 227.24352366117319)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (343.81765267903836, 360.88687129880856)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (190.84175417219214, 229.10512197154256)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (347.295265334515, 364.3884857028296)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 50, 'position': (192.9944808223612, 231.1002722229382)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 65, 'position': (350.92706184385577, 367.7799856856022)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (194.97779004840172, 233.22309895249504)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (354.44922580567726, 371.5086892706569)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (197.0282138055073, 235.15799926652412)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (358.2227840223237, 374.7119255828753)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (199.1632086636058, 237.2661828297298)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (361.7187901420509, 378.44035185468493)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (201.24600131602597, 239.12313245711772)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (365.2864719863818, 382.0251238155336)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (203.37956389726025, 241.30914661099152)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (369.0832681083146, 385.65814008126057)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (205.5397324489577, 243.3205343584731)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (372.4218649313697, 389.42061787783143)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (207.54994889285388, 245.18729629700067)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (376.1455271291494, 392.8344831693507)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (209.5969682582003, 247.10891781606063)}
+❌ Message integrity is NOT valid!
+
+Vehicle V4 received message from V3: {'vehicle_id': 'V3', 'speed': 35, 'position': (379.6142521503249, 396.6116246830455)}
+❌ Message integrity is NOT valid!
+
+Vehicle V3 received message from V4: {'vehicle_id': 'V4', 'speed': 20, 'position': (211.45517728816944, 249.27311589973039)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (39.80109027882412, 18.845596261756327)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (76.59351225897005, 17.318646069190045)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (48.960842277867556, 27.82424072688893)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (83.15141489342012, 23.954672650049925)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (58.08911842003334, 36.47680639481166)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (89.48760602505801, 30.82543634028049)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (66.97008592961303, 46.05214026147584)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (96.3940142877802, 37.605605732220596)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (75.83797891738365, 55.295651304982414)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (102.80361354188506, 45.093242827208606)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (84.4903197622119, 65.10971321274232)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (110.14887260796151, 51.848906496249604)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (93.33071441063541, 74.29151179161673)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (116.76892654321416, 58.28350081515791)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (102.30665656369172, 84.58155595346102)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (123.8396572448381, 65.72045085967176)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (111.77651053210086, 94.3919848474429)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (130.80926490956244, 72.94288192247035)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (121.35594222230395, 103.76682324175724)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (137.3070960310812, 80.60624241413264)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (129.96848536382802, 112.59805035721206)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (143.89695383127594, 87.89517695482525)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (140.37897132145952, 122.32614032688986)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (151.4593836078096, 94.6368938798444)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (150.10326924679893, 132.6774945656293)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (158.67689873504483, 101.43464132800524)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (159.38141492276657, 141.8399195606197)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (165.0836890565789, 108.55096867679485)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (168.91366464803775, 152.27310746040388)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (172.06809341977856, 115.84400950985243)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (178.73006207050014, 161.69675927025375)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (178.8474725576517, 122.38651777479888)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (187.6007908173367, 171.93558312927476)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (185.65659825740042, 128.9436443188363)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (197.87243133592423, 180.96725259075896)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (191.96863021116664, 136.37502182871867)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (206.46213839126264, 190.87345395908252)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (199.1669822502729, 142.77372092442013)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (215.68282367085345, 201.1584346126699)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (206.81664615209564, 150.19575730979506)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (225.81761628058186, 210.08006995913655)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (213.79916338541108, 157.75246377674037)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (235.38698574572285, 220.4813941852267)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (221.2069804850153, 164.7206086552804)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (245.71200251275127, 229.07846901021645)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (228.88180772784708, 171.050099108195)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (254.8834947836361, 237.62872490375904)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (236.3394833163781, 178.19218392536075)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (263.4337818971295, 246.85402253129172)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (242.64048537312104, 185.8336523278405)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (273.52981943497076, 256.5274829499635)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (249.08828460663582, 193.51012273207417)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (283.51957822168623, 265.5786774984834)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (255.7156448011306, 200.88695815816544)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (292.4281599312038, 275.1486578226251)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (263.1250088207011, 207.35851141962758)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (301.5757740969842, 283.9317416465803)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (269.74719261900873, 214.09690428970708)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (311.19469379672245, 294.0323245038568)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (276.6917067133628, 220.57620710074804)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (320.2409821890914, 302.98378285578497)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (284.24663093813444, 227.13798400757634)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (328.8336536911972, 312.6935638264079)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (291.7391716450593, 234.5736543333687)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (338.0358179311524, 323.0662044958786)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (298.37603243372655, 242.04791326401437)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (348.3267667157282, 331.70166577393746)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (305.8592063467799, 249.16915792857498)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (358.0962923369795, 341.0385553491776)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (313.1033265042219, 256.3551744997546)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (368.0149790752851, 351.15063255714654)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (319.4420438050603, 263.8331575062134)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (376.74101816636215, 360.75320793499696)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (327.0018891836844, 270.46041485086386)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (386.94489107755, 369.5191131958459)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (333.6007397418769, 276.99321525675197)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (397.2014682057594, 378.2426103773361)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (340.51025894228064, 284.35189210883175)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (406.9896617910184, 387.0102371811104)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (347.8391143325536, 291.6336095853653)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (417.29204844217367, 395.8397333194875)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (355.0954210167687, 298.40148400492154)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (426.86802803491867, 406.0664052907427)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (362.791263378757, 305.89066271408757)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (436.7305746086789, 415.4609718189205)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (369.74117710789744, 312.98049892878146)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (445.69266469871076, 425.0380742910502)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (376.55071175828726, 319.586875458964)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (454.3611443367733, 434.6167469585563)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (384.1061769311001, 326.7529470688002)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (463.2484146186725, 443.80103690068484)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (391.23819509356974, 333.13995235217243)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (473.2896162067397, 452.90964142699545)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (397.632103333982, 340.4315890698261)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (483.03943803967877, 461.84308523660644)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (405.04315828263145, 346.9612887930689)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (491.970970240026, 471.96979026801836)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (412.0733021595589, 354.2359189723805)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (501.8649973038764, 481.67400249015634)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (419.4751626249297, 361.1350458052304)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (511.11494425176573, 490.8613468959599)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (425.8113234737282, 368.1253204059259)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (519.8414688702572, 500.36253512623836)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (433.4841440942731, 375.6308198394178)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (530.0495602894581, 510.7683951212473)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (439.88366490116744, 382.01645373663683)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (539.5564512175994, 520.6723383725524)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (447.52798720787047, 388.7545830564009)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (548.889065832206, 530.2789510720314)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (454.6573226716288, 395.0553422018951)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (558.5699670760819, 540.5977889253932)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (461.8773417834343, 401.9781591399976)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (567.4281314722615, 550.5574855543015)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (468.2251613301675, 409.45430399198864)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (577.8739827479784, 559.7553966720399)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (475.7835597958548, 416.2562850916519)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (586.7564775127645, 570.1778082552214)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (483.3257884659752, 423.5016369245578)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (596.9206585473588, 580.2567306641054)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (490.1721123280923, 431.0042896421871)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (606.0300358656846, 590.193547073946)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (497.7159874853924, 438.3523345337506)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (615.9406815347227, 600.2220218493735)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (504.56501002773365, 446.03444340284824)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (624.691664851414, 608.8643183771113)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (511.8277576955938, 453.70169306760226)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (634.7264073559745, 617.7694147549278)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (518.1379312140554, 460.8590379691409)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (643.9302400818038, 626.9304679817691)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (525.2920955639016, 468.4011425396922)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (653.7163885840592, 635.8926617496646)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (532.3060995089404, 475.937829183465)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (662.3792456137709, 646.074109777599)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (539.8680377966006, 483.5517430342358)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (672.0366908857625, 654.824236606591)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (547.3510231607216, 490.2407157184248)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (682.2734539037108, 665.0376310818917)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (554.1935314839295, 496.7007827085937)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (692.5814039992047, 673.871031381175)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (561.2269788194695, 503.09299430302576)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (701.938924128985, 683.9846187765579)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (568.0865073705543, 510.34053591546535)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (711.1098761104478, 693.4271544678847)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (575.2961023130897, 517.4293332090924)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (720.6713005780983, 702.0867998772914)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (582.5608452022072, 524.0349454260795)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (730.1296656582923, 711.8524174565295)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (589.1021224568949, 531.0013801065415)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (739.8996354764638, 720.9632219648317)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (595.6208220384877, 538.5232605940654)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (749.3194551175441, 730.3549642328694)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (603.0551993066938, 545.0506731877825)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (759.0054920906178, 739.3140597872737)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (610.0125622184031, 552.6790239614527)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (767.9247924907481, 748.9689134841674)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (616.3207817753469, 559.6467132757839)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (778.0404231994764, 759.0188974591633)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (623.2887213916043, 566.7847301260163)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (786.9228072196369, 767.6787179524133)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (630.4141015256414, 574.2195808914995)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (795.6011067033656, 777.716146371335)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (636.9967023753827, 581.1884410920168)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (804.2775703663596, 786.6674014690752)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (643.519312280814, 587.6684652398039)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (813.3139436763113, 795.5238150076084)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (650.9413423792695, 595.2716705260639)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (822.98843093822, 804.154265700437)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (657.3460281044161, 602.5924645387138)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (831.6683720084624, 812.7236838514264)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (664.1593660416993, 609.5458917952245)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (841.5888561526186, 822.0817542171314)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (671.5362931415696, 616.6166396629533)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (851.0269755008267, 831.6495112479026)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (678.6091943604213, 623.5631949250474)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (859.6718616485966, 840.9563764590821)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (685.075375216185, 630.771111464893)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (869.0735292960228, 850.107020056016)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (691.8797586172734, 638.2249716474296)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (878.6541102667923, 859.8451941619381)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (698.8205850697977, 645.0785168556051)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 125, 'position': (888.7238246784182, 869.0801423059471)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 100, 'position': (705.5058609770672, 652.3425457153731)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (898.2527270298915, 878.077525378278)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (712.3539344308098, 659.7003595757923)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (907.036196299241, 887.5999407709826)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (719.4446008323819, 667.1737148404488)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (917.3237216566238, 897.5951365358405)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (726.1122973841888, 673.5500191824636)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (926.6542787397514, 906.9407524418932)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (732.6446918020979, 680.0970778412293)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (936.123315898858, 916.1646106092242)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (739.6141037615151, 687.7643112971892)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (946.3146370805462, 925.409587455269)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (746.6724185903589, 694.798827008682)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (955.8455958364617, 935.4236623729058)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (753.7148391656713, 701.9332542977053)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (965.0171798209426, 945.4036526787347)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (760.9215481510282, 709.5398718465054)}
+❌ Message integrity is NOT valid!
+
+Vehicle V6 received message from V5: {'vehicle_id': 'V5', 'speed': 95, 'position': (974.8753897852932, 955.4783378282339)}
+❌ Message integrity is NOT valid!
+
+Vehicle V5 received message from V6: {'vehicle_id': 'V6', 'speed': 70, 'position': (767.7877650468818, 716.7094982325491)}
+❌ Message integrity is NOT valid!
+
