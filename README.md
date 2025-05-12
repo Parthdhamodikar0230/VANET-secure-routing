@@ -63,7 +63,3 @@ Usage
 Contribution
 
 Feel free to fork this repository and submit pull requests for any improvements or fixes. All contributions are welcome!
-
-License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
